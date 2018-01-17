@@ -1,0 +1,84 @@
+h1{
+	font-size:60px;
+	color:#FFFFFF;
+	text-align:center;
+	/* This is a comment */
+}
+#front {
+	font-size:100px;
+	color: #7E9DAE;
+	text-align: center;
+	/* This is a comment */
+}
+#info {
+	font-size:10px;
+	color:#7E9DAE;
+     text-align: center;
+}
+#dragon  {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width: 40%;
+}
+#firstnext {
+	font-size:20px;
+	color:#09D679;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+}
+p{
+	font-size:30px;
+	color:#FFFFFF;
+	text-align: center;
+}
+#description {
+	display:block;
+	float:left;
+
+	width:30%;
+}
+#bakunawaaa{
+display:block;
+	float:right;
+	width:38%;
+}
+#secondnext{
+font-size:20px;
+	color:#09D679;
+	text-align: center;
+	
+	bottom:20;
+	width: 100%;
+}
+#homepage {
+	font-size:20px;
+	color:#09D679;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+}
+#tribute{ font-size:40px;
+	color:#FFFFFF;
+	text-align: center;
+	bottom: 0;
+	width: 100%; }
+#content{ font-size:40px;
+	color:#FFFFFF;
+	text-align: center;
+	bottom: 0;
+	width: 100%; }
+#previous{
+	font-size:20px;
+	color:#09D679;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+}
+#dragonday{
+	font-size:30px;
+	color:#FFFFFF;
+	text-align:center;
+	/* This is a comment */
+}
